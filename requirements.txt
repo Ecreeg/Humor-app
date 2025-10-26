@@ -1,0 +1,4 @@
+streamlit
+requests
+pyrebase4
+firebase_admin
